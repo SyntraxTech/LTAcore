@@ -1,5 +1,5 @@
 # LTAcore
-LTAcore is a high-performance operating system and software kernel, feature-rich piece of software developed by Pingunix. Designed to power operating systems and advanced software, it delivers exceptional stability, scalability, and flexibility. Built with a focus on reliability and modern architecture, LTAcore offers a robust foundation for everything from lightweight embedded systems to full-scale desktop and server environments.
+LTAcore is a high-performance operating system and software kernel, feature-rich piece of software developed by Syntrax. Designed to power operating systems and advanced software, it delivers exceptional stability, scalability, and flexibility. Built with a focus on reliability and modern architecture, LTAcore offers a robust foundation for everything from lightweight embedded systems to full-scale desktop and server environments.
 
 Key highlights:
 
